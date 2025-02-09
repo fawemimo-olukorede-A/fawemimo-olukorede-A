@@ -4,8 +4,9 @@
 
 📧 **Email:** olukoredefawemimo@gmail.com  
 🌍 **Location:** Nigeria  
-🔗 **LinkedIn:** [Olukorede Fawemimo](https://www.linkedin.com/in/olukoredefawemimo/)  
-🔗 **Medium:** [Olukorede Fawemimo](https://medium.com/@ayoola.olukorede247)  
+📎 **LinkedIn:** [Olukorede Fawemimo](https://www.linkedin.com/in/olukoredefawemimo/)  
+📎 **Medium:** [Olukorede Fawemimo](https://medium.com/@ayoola.olukorede247)  
+📎 **Portfolio:** [Olukorede Fawemimo Portfolio](https://ambitious-pebble-03ab07d03.4.azurestaticapps.net/)  
 
 ---
 
@@ -22,7 +23,7 @@
 
 ---
 
-## 💼 Experience
+## 🌝 Experience
 
 ### **DevOps Engineer | Infinion Technologies**  
 - Designed and implemented CI/CD pipelines using Azure DevOps and GitHub Actions, reducing deployment time by 30%.
@@ -40,7 +41,7 @@
 
 ---
 
-## 📂 Projects
+## 🗂️ Projects
 
 ### **Azure Bicep Scripts**
 - **Description:** Developed scripts for deploying Azure resources using Bicep.
@@ -82,8 +83,9 @@
 ## 🎯 Goals & Interests
 
 - Master advanced Kubernetes orchestration and security practices.
-- Enhance expertise in Terraform, Bicep and Infrastructure as Code (IaC) automation.
+- Enhance expertise in Terraform and Infrastructure as Code (IaC) automation.
 - Contribute to open-source DevOps and cloud automation projects.
+- Stay ahead in cloud security and compliance best practices.
 - Expand knowledge in AI-driven DevOps automation.
 
 ---
